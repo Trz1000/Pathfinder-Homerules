@@ -1,0 +1,279 @@
+﻿Removed Feats
+Leadership
+Removed - This will happen based on Story progression.
+Fey Foundling
+Removed - This was too useful and requires too much preplanning for use, leading this to be a min-max Feat.
+Planar Wild Shape
+Removed - This was only used to gain DR 5/ and is too strong.
+Piranha Strike / Power Attack / Deadly Aim
+Replaced - Built into Risky Strike action.
+Rapidshot 
+Replaced - We don’t use Full Attacks in UAE, and so we needed a suitable replacement.
+Combat Expertise
+Replaced - Built into the Defensive Strike Action
+Agile Maneuver
+Replaced - Sunder/Disarm/Trip are DEX to CMB with a Finesse weapon is free, but Agile Combatant is required in addition to a Finesse weapon for Dex to CMB for Bull Rush, Grapple, Hamstring, or Overrun.
+Weapon Finesse
+Replaced - See Precise Strike (Action type)
+Point Blank Shot
+Removed - Ranged classes don’t need the additional buffs, and staying within 30 feet for +1 ATK/DMG is pointless and meta-gamey anyways. Feats that require this now require Precise Shot.
+Improved Two Weapon Fighting
+Removed - This was merged with Greater Two Weapon Fighting.
+Altered Feats
+Crossbow Mastery
+You can load crossbows with blinding speed and even fire them in melee with little fear of reprisal.
+Benefit: You reduce the time required to reload a Crossbow by one additional increment. Reloading a crossbow for the type of crossbow you chose when you took Rapid Reload no longer provokes attacks of opportunity.
+Endurance
+Harsh conditions or long exertions do not easily tire you. You can withstand adversity better than most.
+Benefit: In addition to the regular bonuses, your Death Saving throw threshold for the purposes of Death is increased to 4.
+Diehard
+You are especially hard to kill. You can remain conscious and continue to act even at death’s door.
+Prerequisite: Endurance
+Benefit: When your Hit Point total is below 0, you do not fall unconscious. Instead, you may continue making actions as if you are Staggered. However, for each round spent below or at 0 HP, you must continue making Death Saves. If you die as a result of the Death Save results, you perish. Successfully making 3 Death Saving Throws do not have any effect. If you take any damage while in Diehard, you fail an additional Death Saving throw immediately at the start of your next round. If the damage is from a critical hit (or causes grevious harm), you fail two death saving throws instead. You must still make the regular Death Saving throw If you exit Diehard, you keep all of your previously made Death Saving Throws. If this exceeds your regular Death Saving throw threshold, you die.
+Deathless Initiate
+For you, impending death is a call to wrath.
+Prerequisites: Str 13, Con 13, Diehard, Endurance, base attack bonus +6.
+Benefit: Rather than being Staggered while in Diehard, you are instead Slowed. This Slow cannot be dispelled or magically removed in any way with the exception of exiting Diehard. Further, while using the Diehard feat, you gain a +2 bonus on melee attacks and damage rolls. 
+Deathless Master
+Even if you suffer a grievous wound, you can shrug off the damage and continue your relentless assault.
+Prerequisites: Str 13, Con 15, Deathless Initiate, Diehard, Endurance, base attack bonus +9.
+Benefit: Rather than being Slowed while in Diehard, you are not affected in any way. In addition, your Death Saving throw threshold for the purposes of Death is increased to 5 while in Diehard.
+Agile Combatant (Combat)
+You’ve learned to use your quickness in place of brute force when performing combat maneuvers. 
+Benefit: You add your Dexterity bonus to your base attack bonus and size bonus when determining your Combat Maneuver Bonus instead of your Strength bonus. 
+Normal: You add your Strength bonus to your base attack bonus and size bonus when determining your Combat Maneuver Bonus. 
+Special: With or without this feat, when you are using a finesse weapon, you may use your Dexterity bonus in place of your Strength bonus when attempting a disarm, sunder, or trip maneuver. This feat allows you to add your Dexterity bonus in place of your Strength bonus when attempting a bull rush, grapple, hamstring, or overrun maneuver.
+Catch Off-Guard (Combat)
+Foes are surprised by your skilled use of unorthodox and improvised weapons.
+Prerequisite: Unarmed Combatant, Dex 13.
+Benefit: You do not suffer any penalties for using an improvised weapon. Unarmed opponents are flat-footed against any attacks you make with an improvised weapon. You receive a +1 circumstance bonus on attack rolls made with thrown splash weapons.
+Normal: You take a –4 penalty on attack rolls made with an improvised weapon.
+Channel Smite (Combat)
+You can channel your divine energy through the melee weapon you wield.
+Prerequisite: Channel energy class feature.
+Benefit: You channel divine energy into your weapon as a Simple action. On the next strike, the energy is discharged into the target. The target can make a Will save, as usual, to halve this additional damage (if the target is affected). The channeled energy remains within your weapon until a number of rounds has passed that is equal to the number of dice on the channeled energy, or the energy has been discharged.
+Dazing (Metamagic)
+You can daze creatures with the power of your spells.
+Benefit: You can modify a spell to daze a creature damaged by the spell. When a creature takes damage from this spell, they become dazed for a number of rounds equal to the original level of the spell. If the spell allows a saving throw, a successful save negates the daze effect. If the spell does not allow a save, the target can make a Will save to negate the daze effect. If the spell effect also causes the creature to become dazed, the duration of this metamagic effect is added to the duration of the spell. A dazed target may make a new save equivalent in DC to the original save to break this effect.
+Level Increase: +3 (a dazing spell uses up a spell slot three levels higher than the spell’s actual level.
+Spells that do not inflict damage do not benefit from this feat.
+
+
+Deflect Arrows (Combat)
+You can knock arrows and other projectiles off course, preventing them from hitting you.
+Prerequisites: Dex 13, Unarmed Combatant or Shield Focus.
+Benefit: Once per round when you would normally be hit with an attack from a ranged weapon, you may deflect it so that you take no damage from it. You must roll CMB vs the enemy’s Attack roll. You must be aware of the attack and not flat-footed. Attempting to deflect a ranged attack doesn’t count as an action. Unusually massive ranged weapons (such as boulders or ballista bolts) and ranged attacks generated by natural attacks or spell effects can’t be deflected. You must have at least one hand free and holding nothing (Unarmed Combatant) or a shield in one of your hands (Shield Focus) to use this feat.
+Dodge (Combat)
+Your training and reflexes allow you to react swiftly to avoid an opponent’s attacks.
+Prerequisite: Dex 13.
+Benefit: You gain a +1 dodge bonus to your AC. This bonus increases to +4 against attacks of opportunity caused when you move out of or within a threatened space. A condition that makes you lose your Dex bonus to AC also makes you lose the benefits of this feat.
+Elemental Spell (Metamagic)
+You can manipulate the elemental nature of your spells.
+Benefit:You may replace a spell’s normal damage with one of the following energy types: acid, cold, electricity, or fire. You may also choose to split the spell’s damage, so that half is of that energy type and half is of its normal type. An elemental spell does not use up a higher-level
+spell slot than the spell’s actual level.
+Greater Shield Focus (Combat)
+You are skilled at deflecting blows with your shield.
+Prerequisites: Shield Focus, Shield Proficiency, base attack bonus +1, 8th-level fighter.
+Benefit: Increase the AC bonus granted by any shield you are using by 1. This bonus stacks with the bonus granted by Shield Focus. Additionally, the AC bonus against ranged weapons granted by Shield Focus now affects ranged touch attacks.
+Two-Weapon Fighting (Combat)
+You are an expert in fighting with two Weapons at once. You can make one extra Double Attack action per round.
+Prerequisites: Dex 15, Two-Weapon Fighting, base attack bonus +6[a]
+Benefit: Your penalties when making a Dual Strike are modified.
+Penalty: Your penalties when making a Dual Strike are normal.
+Circumstances
+	Primary Hand
+	Off Hand
+	Normal penalties
+	-6
+	-10
+	Off-hand attack is with a Light Weapon
+	-4
+	-8
+	Two-Weapon Fighting feat
+	-4
+	-4
+	Off-hand attack is with a Natural Weapon or a Light Weapon and Two-Weapon Fighting feat
+	-2
+	- 2
+	Greater Two-Weapon Fighting (Combat)
+You are skilled at fighting with two weapons.
+Prerequisites: Dex 15, Two-Weapon Fighting, base attack bonus +6.
+Benefit: You may make an additional Dual Strike. Once you reach +11 BAB, you may make another another Dual Strike action. Note that the BAB penalty for Dual Strike increases from -2 to -3.
+Normal: Without this feat, you may only make one Dual Strike.
+Circumstances
+	Primary Hand
+	Off Hand
+	Normal penalties
+	-7
+	-11
+	Off-hand attack is with a Light Weapon
+	-5
+	-9
+	Greater Two Weapon Fighting feat
+	-5
+	-5
+	Off-hand attack is with a Natural or Light Weapon and Greater Two Weapon Fighting feat
+	-3
+	-3
+	
+
+Improvised Weapon Mastery (Combat)
+You can turn nearly any object into a deadly weapon, from a razor-sharp chair leg to a sack of flour.
+Prerequisites: Unarmed Combatant, Catch Off- Guard, base attack bonus +6.
+Benefit: Increase the amount of damage dealt by the improvised weapon by one step (for example, 1d4 becomes 1d6) to a maximum of 1d8 (2d6 if the improvised weapon is two-handed). The improvised weapon has a critical threat range of 19-20, with a critical multiplier of ×2.
+Natural Spell
+You can cast spells even while in a form that cannot normally cast spells.
+Prerequisites: Wis 13, wild shape class feature or change shape class feature.
+Benefit: You can complete the verbal and somatic components of spells while using wild shape or change shape. You substitute various noises and gestures for the normal verbal and somatic components of a spell. You can also use any material components or focuses you possess, even if such items are melded within your current form. This feat does not permit the use of magic items while you are in a form that could not ordinarily use them, and you do not gain the ability to speak while using wild shape or change shape.
+Manyshot  (Combat)
+You can fire multiple arrows at a single target.
+Prerequisites: Dex 17, Flick Shot, base attack bonus +6.
+Benefit: Once per turn you may take a Dual Strike action as if you were using TWF. This Dual Strike rolls once to hit but is considered to be two strikes for the purposes of damage calculations with the exception of precision based damage (sneak attack or critical hit).
+
+Mighty Hurler (Combat)
+You hurl projectiles with great power, allowing you to precisely control your throw to land where you aim.
+Prerequisites: Str 13, Weapon Focus
+Benefit: When making a ranged attack with a thrown Weapon,  you may choose to apply Strength to attack, but you take a -1 penalty to Hit. 
+Normal: You apply dexterity as the attack modifier when attacking with a thrown weapon.
+
+
+Rapid Reload (Combat)
+Choose the crossbows or thrown group listed under the fighter’s Weapon Training class feature. You can reload such weapons quickly.
+Prerequisite: Dex 13, Weapon Focus with the selected weapon group.
+Benefit: The time required for you to reload a weapon from the selected group is reduced to a Free action (for a hand crossbow, sling, or halfling sling staff), a Swift action (light crossbow) or a Simple action (for a heavy crossbow). Reloading no longer provokes an attack of opportunity. For all these weapons but the heavy crossbow, you may fire that weapon as many times in a full-attack action as you could attack if you were using a bow. Note that two free hands are required to reload.
+Normal: A character without this feat needs a Simple action to reload a hand crossbow, light crossbow, sling, or halfling sling and an Advanced action to reload a Heavy Crossbow.
+Pounce
+Any effect, feature, or ability which grants Pounce (or similar move+full-round attack effects) allows the creature to charge with a simple action.
+Shield Focus (Combat)
+You are skilled at deflecting blows with your shield.
+Prerequisites: Shield Proficiency, base attack bonus +1.
+Benefit: Increase the AC bonus granted by any shield you are using by 1. This bonus increases to +5 against ranged attacks (not including spell effects, natural attacks, or massive ranged weapons).
+Weapon Focus (Combat)
+Choose one weapon group listed under the fighter’s Weapon Training class feature. 
+Prerequisites: Proficiency with at least one weapon from the selected weapon group, base attack bonus +1. 
+Benefit: You gain a +1 bonus on all attack rolls you make using any weapon from the selected group. 
+Special: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new weapon group
+
+
+Weapon Specialization (Combat)
+You are skilled at dealing damage with one type of weapon. Choose one weapon group listed under the fighter’s Weapon Training class feature for which you have already selected the Weapon Focus feat. You deal extra damage when using these weapons. 
+Prerequisites: Weapon Focus with the selected weapon group, fighter level 4th. 
+Benefit: You gain a +2 bonus on all damage rolls you make using any weapon from the selected group. 
+Special: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new weapon group.
+New Feats
+Deft Shots (Combat)
+You are skilled with one-handed ranged weapons, carefully aiming to land deadly shots on your foes.
+Prerequisites: Dex 13, BAB + 3, Precise Shot
+Benefit: You gain +1 bonus to Attack/Damage Rolls with a one-handed Firearm. You also gain +2 bonus to Attack Rolls with other one-handed ranged weapons.
+Normal: You do not gain these bonuses.
+Greater Deft Shots (Combat)
+You are an expert with one-handed ranged weapons, carefully aiming to land deadly shots on your foes.
+Prerequisites: Deft Shots, BAB +7
+Benefit: You gain +2 bonus to Attack/Damage Rolls with a one-handed Firearm. You also gain +3 bonus to Attack Rolls with other one-handed ranged weapons. You also gain a +2 Bonus to confirming Critical Hits with these weapons. Once your BAB reaches +11, the bonuses increase to +3 bonus to Attack/Damage with a one-handed Firearm and +4 bonus to Attack for other one-handed ranged weapons. The bonus to confirming Critical Hits also increases to +4. In addition, you also no longer provoke Attacks of Opportunity with all one-handed ranged weapons. 
+Normal: You do not gain these additional bonuses.
+Handgun Expert (Combat)
+You are skilled with aiming two-handed Firearms, allowing you to hit vital spots on the enemy.
+Prerequisites: Dex 13, BAB + 3, Precise Shot
+Benefit: You gain +2 bonus to Damage Rolls with a two-handed Firearm. 
+Normal: You do not gain these bonuses.
+Greater Handgun Expert (Combat)
+You are expertly skilled with aiming two-handed Firearms, allowing you to hit vital spots on the enemy.
+Prerequisites: Handgun Combat, BAB +7
+Benefit: You gain +5 bonus to Damage Rolls with a two-handed Firearm.  Once your BAB reaches +11, this damage bonus increases to 8.
+Normal: You do not gain these bonuses.
+Heavy Precise Strike(Combat)
+Learning to leverage your fine motor control with your strength, you can aim your blows with great precision even while wielding a heavier weapon.
+Prerequisites: Str 10, Dex 13, BAB + 1
+Benefit: You may treat One Handed melee weapon that deals either Piercing or Slashing and weighs less than or equal to four pounds as Agile Weapons.
+Normal: One Handed melee weapons that are not Light are not treated as Agile Weapons.
+Greater Heavy Precise Strike(Combat)
+You are skilled in wielding a large weapon with high precision, aiming your blows at critical spots and devastating angles to deal maximum damage.
+Prerequisites: Str 10, Dex 15, BAB + 3, Heavy Precise Strike
+Benefit: You treat Slashing or Piercing Two Handed Weapons that weigh less than or equal to twelve pounds as if they were Agile Weapons. Furthermore, all One-handed melee weapons that deal Slashing or Piercing damage are considered Agile.
+Normal: Two Handed Weapons do not have the Agile Trait, and One Handed melee weapons are only agile if they are light (ignoring if you have Improved Precision or not).
+Aimed Strike (Combat)
+You aim your strikes carefully, hitting your opponent where it hurts the most.
+Prerequisites: Dex 15, Weapon Focus
+Benefit: Choose a Weapon Group that you have Weapon Focus in. When using the Precise Strike action with a Weapon in that Weapon Group, you may choose to apply Dexterity to damage, but you take a -1 penalty to Hit. 
+Normal: You apply strength as a damage modifier when attacking with a finesse melee weapon.
+Mighty Hurler (Combat)
+You hurl projectiles with great power, allowing you to precisely control your throw to land where you aim.
+Prerequisites: Str 13, Weapon Focus
+Benefit: When making a ranged attack with a thrown Weapon,  you may choose to apply Strength to attack, but you take a -1 penalty to Hit. 
+Normal: You apply dexterity as the attack modifier when attacking with a thrown weapon.
+Deft Maneuvers (Combat)
+You are skilled in a variety of dexterous combat maneuvers.
+Prerequisites: Dex 13.
+Benefit: You do not provoke an attack of opportunity when performing a trip, reposition, steal, dirty trick. or disarm combat maneuver. In addition, you receive a +2 bonus on checks with these trip, reposition, steal, dirty trick. and disarm combat maneuvers, and you can make a Bluff check to feint in combat as a simple action. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to trip, reposition, steal, dirty trick. or disarm you.
+Normal: You provoke an attack of opportunity when performing a trip, reposition, steal, dirty trick. or disarm combat maneuver. Feinting in combat is an advanced action.
+Flick Shot(Combat)
+You quickly aim and fire a shot at a target.
+Prerequisites:  Dex 13, Point-Blank Shot.
+Benefit: Once per turn you may quickly fire a shot at a target. This shot is made at a -5 attack penalty, but carries no multiple strike penalty. At +11 BAB, this Attack can be made at no penalty.
+Normal: You may not take the Flick Shot action.
+Greater Hamstring (Combat)
+You can stop enemies in their tracks.
+Prerequisites: Powerful Maneuvers, base attack bonus +6, Str 13.
+Benefit: You receive a +2 bonus on checks made to hamstring a foe. This bonus stacks with the bonus granted by Powerful Maneuvers. When you successfully hamstring an opponent using an attack of opportunity, that opponent cannot move for the rest of his turn.
+
+
+Iron Guard (Combat)
+You are skilled at shielding yourself from flames and magical effects.
+Prerequisites: Shield Focus, Shield Proficiency, base attack bonus +6.
+Benefit: You gain the benefits of the rogue’s evasion class ability as long as you have a heavy shield or tower shield in one hand. Unlike evasion, you may still benefit from Iron Guard while wearing medium or heavy armor although you still lose these benefits while helpless.Unlike evasion, you do not need to wear light or medium armor to benefit from this effect. 
+
+
+Powerful Maneuvers (Combat)
+You are skilled in a variety of strength-focused combat maneuvers.
+Prerequisites: Str 13, base attack bonus +1
+Benefit: You do not provoke an attack of opportunity when performing a bull rush, hamstring, drag, overrun, or sunder combat maneuver. In addition, you receive a +2 bonus on checks with these combat maneuvers. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to bull rush, hamstring, drag, or overrun you, or sunder your gear. Targets of your overrun attempts may not choose to avoid you.
+Normal: You provoke an attack of opportunity when performing a bull rush, hamstring, overrun, or sunder combat maneuver.
+
+
+Powerful Stride
+Your movements on the battlefield are swift and steady.
+Prerequisites: Str 15, Dex 13, Nimble Moves.
+Benefit: Once per day, you can take a 10-foot step in place of a 5-foot step. This movement must be made in a straight line.
+Special: If you have the Step Up feat, you may still take a 5-foot step during your next turn after benefiting from its effects. In addition, any movement you make using Step Up does not subtract any distance from your movement during your next turn.
+
+
+Savage Charge (Combat)
+You fearlessly dive into battle, bringing the full weight of your weapon down on your opponent.
+Prerequisites: Str 15, Vital Strike, base attack bonus +8.
+Benefit: You can use any Vital Strike feat as part of a charge action or Spring Attack.
+Scorpion Stance (Combat)
+You are skilled at incapacitating larger opponents.
+Prerequisites: Unarmed Combatant, Deft Maneuvers or Powerful Maneuvers.
+Benefit: You can bull rush, hamstring, overrun, or trip an opponent who is up to two size categories larger than you. You are treated as one size category larger while grappling.
+Special: If you have a ki pool, you may spend a point to bull rush, hamstring, overrun, or trip an opponent who is up to three size categories than you and are treated as two size categories larger while grappling. This effect lasts for a number of rounds equal to your Wisdom or Charisma modifier, whichever is higher.
+Normal: You can only bull rush, hamstring, overrun, or trip an opponent who is no more than one size category larger than you.
+
+
+Unarmed Combatant (Combat)
+You are skilled at grappling and fighting while unarmed.
+Prerequisite: Dex 13.
+Benefit: You are considered to be armed even when unarmed - you do not provoke attacks of opportunity when you attack foes while unarmed. Your unarmed strikes now deal 1d6 damage if you are Medium-sized or 1d4 damage if you are Small-sized, and you can deal lethal or nonlethal damage, at your choice. You do not provoke an attack of opportunity when performing a grapple combat maneuver. In addition, you receive a +2 bonus on checks made to grapple a foe. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to grapple you.
+Normal: Without this feat, you are considered unarmed when attacking with an unarmed strike, and you can deal only nonlethal damage with such an attack. You provoke an attack of opportunity when performing a grapple combat maneuver.
+
+
+Weapon Proficiency (Combat)
+Prerequisites: Weapon Focus (Group)
+Choose one weapon group listed under the fighter’s Weapon Training class feature. You understand how to use all simple, martial, and exotic weapons from that group.
+Benefit: You make attack rolls with weapons from the selected group normally (without the non-proficient penalty).
+Normal: When using a weapon with which you are not proficient, you take a –4 penalty on attack rolls.
+Special: You can gain Weapon Proficiency multiple times. Each time you take the feat, it applies to a new weapon group.
+
+
+Whirling Cleave (Combat)
+You become a whirlwind of steel on the battlefield.
+Prerequisites: Str 13, Cleave, Great Cleave, base attack bonus +6.
+Benefit: You may take a single 5-foot step during a Cleave or Great Cleave, as long as it brings you within reach of another foe of which you are able to make an additional attack against. This 5-foot step is a free action and does not subtract from your normal movement for the round.
+
+
+
+
+
+
+
+
+[a]This prereq is incorrect, that's the prereq for Greater Two-Weapon Fighting. I believe it is: Dex 13
